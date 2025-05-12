@@ -1,0 +1,7 @@
+title: GSEABenchmarkerR
+url: https://waldronlab.github.io/GSEABenchmarkerR
+
+template:
+  bootstrap: 5
+  params:
+    bootswatch: flatly
